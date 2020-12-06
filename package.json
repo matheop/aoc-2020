@@ -1,0 +1,18 @@
+{
+  "name": "2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helpers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@babel/cli": "^7.12.8",
+    "@babel/core": "^7.12.9",
+    "eslint": "^7.15.0"
+  }
+}
